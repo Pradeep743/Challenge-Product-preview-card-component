@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View Code](https://your-solution-url.com)
-- Live Site URL: [View Site](https://your-live-site-url.com)
+- Solution URL: [View Code](https://github.com/Pradeep743/Product-preview-card-component-challenge)
+- Live Site URL: [View Site](https://pradeep743.github.io/Product-preview-card-component-challenge/)
 
 ## My process
 
